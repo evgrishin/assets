@@ -10,7 +10,7 @@ var config = {
     port: 3000,
     logPrefix: "server"
 };
-
+//
 var path = {
     dist: {
         html: 'theme/',
